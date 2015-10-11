@@ -29,3 +29,5 @@ poly_styles:
 [simple-links orderby="title" title="Resources" category="8" description="true"]
 
 [simple-links orderby="title" title="Vendors" category="6" description="true"]
+
+[table id=2 /]
