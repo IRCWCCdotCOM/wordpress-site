@@ -23,4 +23,4 @@ poly_javascript:
 poly_styles:
   - ""
 ---
-[table id=1 /]
+[table id=1 datatables_buttons="colvis,copy,csv,excel,pdf,print" /]
