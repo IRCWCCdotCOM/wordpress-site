@@ -22,3 +22,4 @@ poly_javascript:
 poly_styles:
   - ""
 ---
+[pmpro_account]
