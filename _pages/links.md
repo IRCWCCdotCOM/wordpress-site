@@ -24,8 +24,8 @@ poly_styles:
 ---
 [simple-links orderby="title" order="ASC" title="Fast Gun" category="4" show_image="true" image_size="thumbnail" description="true"]
 
-[simple-links orderby="title" title="Big Gun Clubs" category="5" fields="Logo" show_image="true" image_size="thumbnail" show_image_only="true"]
+[simple-links orderby="title" title="Big Gun" category="5" description="true"]
 
-[simple-links title="Resources" category="8" description="true"]
+[simple-links orderby="title" title="Resources" category="8" description="true"]
 
-[simple-links orderby="title" title="Vendors" category="6"]
+[simple-links orderby="title" title="Vendors" category="6" description="true"]
